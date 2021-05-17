@@ -10,7 +10,9 @@ Experimento 2
 
 Master 1
 
-Master 2S
+Master 2
+
+Esto es mio en la rama "experimentoMio". xd
 
 Este cambio lo hice en la rama main.
 
